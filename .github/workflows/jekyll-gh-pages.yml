@@ -52,4 +52,4 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@releases/v4
         with:
           branch: main  # Change this to your target branch
-          folder: build
+          folder: build  # Make sure this points to the correct directory
